@@ -1,0 +1,4 @@
+Joshua Resolusi
+- Konsisten Belajar React.js
+- Konsisten Belajar Tailwind CSS
+- konsisten belajar next.Js
