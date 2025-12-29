@@ -4,3 +4,5 @@ Joshua Resolusi
 - konsisten belajar next.Js
 - Buat Vlog
 - pindah konten kamera ke laptop
+
+----
